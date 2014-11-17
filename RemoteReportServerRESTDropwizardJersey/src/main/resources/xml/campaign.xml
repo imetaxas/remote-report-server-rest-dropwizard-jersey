@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE xml>
+<collection>
+	<campaignBean>
+		<advertiserId>bf6e7d9b-dfb1-41a7-b4c9-07d5bff17473</advertiserId>
+		<budget>
+			<value>0.0</value>
+		</budget>
+		<cpmHigh>
+			<value>0.0</value>
+		</cpmHigh>
+		<cpmLow>
+			<value>0.0</value>
+		</cpmLow>
+		<customId>1337</customId>
+		<enabled>true</enabled>
+		<end>2015-01-01T00:00:00+0100</end>
+		<exclusive>false</exclusive>
+		<goalTotal>1.18</goalTotal>
+		<goalType>SHARE_OF_VOICE</goalType>
+		<id>08033146-2a69-4834-94b1-8baa5270f298</id>
+		<includeInForecast>true</includeInForecast>
+		<name>HM dress</name>
+		<start>2013-01-01T00:00:00+0100</start>
+		<status>ACTIVE</status>
+		<vastEnabled>false</vastEnabled>
+	</campaignBean>
+	<campaignBean>
+		<advertiserId>5aa0cb75-ba41-4935-a1c5-31d7a7b4783a</advertiserId>
+		<budget>
+			<value>0.0</value>
+		</budget>
+		<cpmHigh>
+			<value>0.0</value>
+		</cpmHigh>
+		<cpmLow>
+			<value>0.0</value>
+		</cpmLow>
+		<customId>46850008240</customId>
+		<enabled>true</enabled>
+		<exclusive>false</exclusive>
+		<goalTotal>77000.0</goalTotal>
+		<goalType>IMPRESSION</goalType>
+		<id>1064288c-b802-4cb0-bbab-43c2fe568475</id>
+		<includeInForecast>true</includeInForecast>
+		<name>Ericsson telco system</name>
+		<start>2013-06-18T00:00:00+0200</start>
+		<status>ACTIVE</status>
+		<vastEnabled>false</vastEnabled>
+	</campaignBean>
+	<campaignBean>
+		<advertiserId>8f18fc65-103b-4f1f-af23-dd261a5e4587</advertiserId>
+		<budget>
+			<value>0.0</value></budget>
+		<cpmHigh>
+			<value>0.0</value>
+		</cpmHigh>
+		<cpmLow>
+			<value>0.0</value>
+		</cpmLow>
+		<customId>2007</customId>
+		<enabled>true</enabled>
+		<end>2013-07-22T00:00:00+0200</end>
+		<exclusive>false</exclusive>
+		<goalTotal>0.0</goalTotal>
+		<goalType>MIXED</goalType>
+		<id>20179d2c-bc1d-449a-a370-6ae1d811ed6a</id>
+		<includeInForecast>true</includeInForecast>
+		<name>Ikea kitchen</name>
+		<start>2013-01-01T00:00:00+0100</start>
+		<status>RECENT</status>
+		<vastEnabled>true</vastEnabled>
+	</campaignBean>
+</collection>

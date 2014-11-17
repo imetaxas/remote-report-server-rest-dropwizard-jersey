@@ -1,0 +1,6 @@
+
+apiKey:
+baseURI: http://localhost:8080/application
+server:
+  type: simple  
+  applicationContextPath: /application

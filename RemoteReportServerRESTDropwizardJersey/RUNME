@@ -1,0 +1,16 @@
+The application is packaged as a fat-Jar which is a Jar together with its dependency Jars into a single executable Jar file.
+The Maven POM file contains all the appropriate information for it. 
+
+Run the Maven goal
+-------------------
+Maven package
+
+To Run the server
+------------------
+Open a command console and type:
+java -jar target/RemoteReportServerRESTDropwizardJersey-0.0.1-SNAPSHOT.jar server report.yml
+
+Use the service to download a CSV file:
+----------------------------------------
+Open a web browsers and type the url:
+http://localhost:8080/application/assets/

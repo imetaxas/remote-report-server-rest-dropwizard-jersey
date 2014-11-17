@@ -1,0 +1,6 @@
+com.project.rest.application
+com.project.rest.client
+com.project.rest.client.report
+com.project.rest.report
+com.project.rest.report.util
+com.project.rest.server
